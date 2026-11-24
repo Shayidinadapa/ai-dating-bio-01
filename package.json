@@ -1,0 +1,1 @@
+{"description":"Funniest one-line bio for an AI on a dating app — a make.fun program/v1 entry that writes the bio to /output/entry.txt","license":"MIT","main":"main.ts","name":"ai-dating-bio-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
